@@ -83,7 +83,7 @@ An intelligent desktop application that enables conversational question-answerin
 
 ```
 RAG/
-├── v7.ipynb                    # Jupyter notebook with core implementation
+├── code.ipynb                    # Jupyter notebook with core implementation
 ├── pdf_qa_core.py              # Core PDF processing and RAG logic
 ├── gui_app.py                  # Tkinter-based GUI application
 ├── requirements.txt            # Python dependencies
