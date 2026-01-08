@@ -1,1 +1,1 @@
-# RAG-Based-Offline-PDF-Assistant-
+# RAG Based Offline PDF Assistant
