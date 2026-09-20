@@ -1,6 +1,36 @@
 # Virtual environment
 venv/
+.venv/
+env/
 
-# Local test/output files
-sample_qa_log.txt
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Q&A logs and chat memory (may contain document content)
+logs/
+*_qa_log.txt
+*_chat_memory.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model / index caches
+.cache/
+*.faiss
+*.index
+
+# Editor and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local environment overrides
+.env
+
+# Test documents
 sample.pdf
+*.pdf
