@@ -1,0 +1,6 @@
+# Virtual environment
+venv/
+
+# Local test/output files
+sample_qa_log.txt
+sample.pdf
