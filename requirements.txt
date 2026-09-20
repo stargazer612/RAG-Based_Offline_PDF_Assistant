@@ -1,0 +1,8 @@
+pymupdf
+pdfplumber
+pytesseract
+pillow
+faiss-cpu
+sentence-transformers
+requests
+numpy
